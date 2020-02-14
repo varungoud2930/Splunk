@@ -3,8 +3,8 @@ Splunk (the product) captures, indexes, and correlates real-time data in a searc
 ## 44517-01
 ## Team-07
 ## Developers and Participants
-.Varun Goud Pulipalpula
-.Bala Gopi Krishna Sabbineni
-.Harshith Gudapati
+Varun Goud Pulipalpula<br/>
+Bala Gopi Krishna Sabbineni<br/>
+Harshith Gudapati
 ## Introduction
 Splunk (the product) captures, indexes, and correlates real-time data in a searchable repository from which it can generate graphs, reports, alerts, dashboards, and visualizations.
