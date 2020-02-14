@@ -15,3 +15,8 @@ Velocity: The velocity of the dataset is high because data will be changed every
 Veracity: The data is not messy and it is cleaned.<br/>
 Value: We can easily find the most liked dish in the particular restaurant<br/>
 Link: https://www.kaggle.com/himanshupoddar/zomato-bangalore-restaurants
+## Big Data Problems
+For all restaurants, we will find the average votes.<br/>
+
+
+
