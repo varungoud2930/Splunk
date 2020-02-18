@@ -15,7 +15,7 @@ Splunk (the product) captures, indexes, and correlates real-time data in a searc
 ### This dataset is related to Toy Dataset
 - Volume: The volume of my data is 5MB. It has 6 columns and 150001 rows. <br/>
 - Variety: This is a very structured dataset which is available in CSV format. <br/>
-- Velocity: The velocity of the dataset is high because data will be changed every day. <br/>
+- Velocity: The velocity of the dataset is high because data wil be changed every month and data will updated for every city. <br/>
 - Veracity: The data is not messy and it is cleaned.<br/>
 - Value: We can easily find the most liked dish in the particular restaurant<br/>
 - Link: https://www.kaggle.com/carlolepelaars/toy-dataset
