@@ -6,9 +6,9 @@
 - Bala Gopi Krishna Sabbineni<br/>
 - Harshith Gudapati
 ## Links
-[Source_Repo](https://varungoud2930.github.io/Splunk/)<br/>
-[Issue_Tracker](https://github.com/varungoud2930/Splunk/issues)<br/>
-[Data_Source](https://www.kaggle.com/carlolepelaars/toy-dataset)
+- [Source_Repo](https://varungoud2930.github.io/Splunk/)<br/>
+- [Issue_Tracker](https://github.com/varungoud2930/Splunk/issues)<br/>
+- [Data_Source](https://www.kaggle.com/carlolepelaars/toy-dataset)
 ## Introduction
 Splunk (the product) captures, indexes, and correlates real-time data in a searchable repository from which it can generate graphs, reports, alerts, dashboards, and visualizations.
 ## V's of the data
