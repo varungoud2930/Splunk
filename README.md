@@ -20,9 +20,9 @@ Splunk (the product) captures, indexes, and correlates real-time data in a searc
 - Value: We can easily find the Age and Income of a person.<br/>
 - Link: https://www.kaggle.com/carlolepelaars/toy-dataset
 ## Big Data Problems
-- For all toys, we will find the count of cities.<br/>
-- For all toys, we will find the average age .<br/>
-- For all toys, we will find the maximum income.
+- For all persons, we will find the count of cities.<br/>
+- For all persons, we will find the average age .<br/>
+- For all persons, we will find the maximum income.
 
 
 
