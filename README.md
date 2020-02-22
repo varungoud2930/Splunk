@@ -21,8 +21,8 @@ Splunk (the product) captures, indexes, and correlates real-time data in a searc
 - Link: https://www.kaggle.com/carlolepelaars/toy-dataset
 ## Big Data Problems
 - For all persons, we will find the count of cities.<br/>
-- For all persons, we will find the average age .<br/>
-- For all persons, we will find the maximum income.
+- For all persons, we will find the count of Illness .<br/>
+- For all persons, we will find the count of Gender.
 
 
 
