@@ -20,11 +20,12 @@ Splunk (the product) captures, indexes, and correlates real-time data in a searc
 - Value: We can easily find the Age and Income of a person.<br/>
 - Link: https://www.kaggle.com/carlolepelaars/toy-dataset
 ## Big Data Problems
-- For all persons, we will find the count of cities.<br/>
-- For all persons, we will find the count of Illness .<br/>
+- For all Cities, we will find the count of cities.<br/>
+- For all Cities, we will find the count of Gender .<br/>
 - Maximum - Bala Gopi Krishna Sabbineni
-- Question: For all persons, we will find the count of Gender.
+- Question: For all Cities, we will find the maximum of Income.
 - Solution: 
+
 ![Maximum Income](https://github.com/varungoud2930/Splunk/blob/master/Income%20-%20maximum%20for%20each%20city/Maximum_income_grpah.png)
 
 
