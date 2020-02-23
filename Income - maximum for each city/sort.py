@@ -5,6 +5,7 @@ dataList = unsorted.readlines()
 dataList.sort()
 
 for line in dataList:
+    print(line)
     data = line.strip().split(",")
     b,e =data
     sorted.write(line)
