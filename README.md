@@ -22,7 +22,9 @@ Splunk (the product) captures, indexes, and correlates real-time data in a searc
 ## Big Data Problems
 - For all persons, we will find the count of cities.<br/>
 - For all persons, we will find the count of Illness .<br/>
-- For all persons, we will find the count of Gender.
+- Maximum - Bala Gopi Krishna Sabbineni
+- Question: For all persons, we will find the count of Gender.
+- Solution: [!picture](desktop/Maximum.png)
 
 
 
