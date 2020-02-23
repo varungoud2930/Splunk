@@ -25,7 +25,7 @@ Splunk (the product) captures, indexes, and correlates real-time data in a searc
 - Maximum - Bala Gopi Krishna Sabbineni
 - Question: For all persons, we will find the count of Gender.
 - Solution: 
-
+![Maximum Income](https://github.com/varungoud2930/Splunk/blob/master/Income%20-%20maximum%20for%20each%20city/Maximum_income_grpah.png)
 
 
 
