@@ -30,6 +30,6 @@ Splunk (the product) captures, indexes, and correlates real-time data in a searc
 
 - Count of Cities : Harshith Gudapati
 - Question : For all Cities, we will find the count of Gender.<br/>
--Solution: 
+- Solution: 
 
 ![Count of Gender](https://github.com/varungoud2930/Splunk/blob/master/Gender-count/count_gender.png)
