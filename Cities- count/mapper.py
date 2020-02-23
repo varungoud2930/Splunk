@@ -1,5 +1,5 @@
 input = open("toy_dataset.csv", "r")
-output = open("01.txt", "w")
+output = open("1.csv", "w")
 
 for line in input:
     print(line)
@@ -9,7 +9,7 @@ for line in input:
 
     
 
-    output.write(City + "\t" + "1"+ "\n")
+    output.write(City + "," + "1"+ "\n")
 
 input.close()
 output.close()
