@@ -10,7 +10,7 @@
 - [Issue_Tracker](https://github.com/varungoud2930/Splunk/issues)<br/>
 - [Data_Source](https://www.kaggle.com/carlolepelaars/toy-dataset)
 ## Introduction
-Splunk (the product) captures, indexes, and correlates real-time data in a searchable repository from which it can generate graphs, reports, alerts, dashboards, and visualizations.
+Splunk (the product) captures, indexes, and correlates real-time data in a searchable repository from which it can generate graphs, reports, alerts, dashboards, and visualizations.In this project we are finding count of cities and count of Illness and maximum income for each state.
 ## V's of the data
 #### This dataset is related to Toy Dataset. They are of 6 columns like City is the location of a person (Dallas, New York City, Los Angeles, Mountain View, Boston, Washington D.C., San Diego and Austin) ,Gender of a person (Male or Female), Age of a person (Ranging from 25 to 65 years), Income i.e., Annual income of a person (Ranging from -674 to 177175) and Illness: Is the person Ill? (Yes or No)
 - Volume: The volume of my data is 5MB. It has 6 columns and 150001 rows. <br/>
@@ -22,7 +22,9 @@ Splunk (the product) captures, indexes, and correlates real-time data in a searc
 ## Big Data Problems
 - For all persons, we will find the count of cities.<br/>
 - For all persons, we will find the count of Illness .<br/>
-- For all persons, we will find the count of Gender.
+- Maximum - Bala Gopi Krishna Sabbineni
+- Question: For all persons, we will find the count of Gender.
+- Solution: 
 
 
 
