@@ -24,7 +24,7 @@ Splunk (the product) captures, indexes, and correlates real-time data in a searc
 - For all persons, we will find the count of Illness .<br/>
 - Maximum - Bala Gopi Krishna Sabbineni
 - Question: For all persons, we will find the count of Gender.
-- Solution: [!picture](desktop/Maximum.png)
+- Solution: [!screnshot](C:\Users\s534801\Desktop\big data\Maximum.png)
 
 
 
