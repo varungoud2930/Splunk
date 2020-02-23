@@ -5,6 +5,7 @@ dataList = unsorted.readlines()
 dataList.sort()
 
 for line in dataList:
+    print(line)
     data = line.strip().split(",")
     Gender,Count = data
     sorted.write(line)
