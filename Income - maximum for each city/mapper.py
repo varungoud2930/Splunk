@@ -2,7 +2,7 @@ input = open('toy_dataset.csv',"r")
 output = open("1.csv", "w")
 
 for line in input:
-    print(line)
+    #print(line)
     datalist = line.strip().split(",")
     
     
