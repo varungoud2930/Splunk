@@ -21,7 +21,6 @@ Splunk (the product) captures, indexes, and correlates real-time data in a searc
 - Link: https://www.kaggle.com/carlolepelaars/toy-dataset
 ## Big Data Problems
 
-- For all Cities, we will find the count of Cities .<br/>
 - Maximum : Bala Gopi Krishna Sabbineni
 - Question: For all Cities, we will find the maximum of Income.
 - Solution: 
@@ -33,3 +32,10 @@ Splunk (the product) captures, indexes, and correlates real-time data in a searc
 - Solution: 
 
 ![Count of Gender](https://github.com/varungoud2930/Splunk/blob/master/Gender-count/count_gender.png)
+
+- Count of Cities : Varun Goud Pulipalpula
+- Question : For all Cities, we will find the count of Cities.<br/>
+- Solution: 
+
+![Count of Gender](https://github.com/varungoud2930/Splunk/blob/master/Gender-count/count_gender.png)
+
