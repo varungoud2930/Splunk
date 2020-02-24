@@ -8,7 +8,7 @@ for line in dataList:
     data = line.strip().split(",")
     City,count =data
     sorted.write(line)
-    print(line)
+    #print(line)
 
 unsorted.close()
 sorted.close()
