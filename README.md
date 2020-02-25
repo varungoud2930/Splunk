@@ -29,7 +29,7 @@ Splunk (the product) captures, indexes, and correlates real-time data in a searc
 
 - Average Age : Harshith Gudapati
 - Question : For all Cities, we will find the average Age.<br/>
-- Solution: )
+- Solution: 
 
 ![Average Age](https://github.com/varungoud2930/Splunk/blob/master/Average-%20Age/Average.png)
 
