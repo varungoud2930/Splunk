@@ -25,7 +25,7 @@ Splunk (the product) captures, indexes, and correlates real-time data in a searc
 - Question: For all Cities, we will find the maximum of Income.
 - Solution: 
 
-![Maximum Income](https://github.com/varungoud2930/Splunk/blob/master/Income%20-%20maximum%20for%20each%20city/Maximum_income_grpah.png)
+![Maximum Income](https://github.com/varungoud2930/Splunk/blob/master/Income%20-%20maximum%20for%20each%20city/Maximum_Income_graph.png)
 
 - Count of Cities : Harshith Gudapati
 - Question : For all Cities, we will find the count of Gender.<br/>
