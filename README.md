@@ -10,7 +10,7 @@
 - [Issue_Tracker](https://github.com/varungoud2930/Splunk/issues)<br/>
 - [Data_Source](https://www.kaggle.com/carlolepelaars/toy-dataset)
 ## Introduction
-Splunk (the product) captures, indexes, and correlates real-time data in a searchable repository from which it can generate graphs, reports, alerts, dashboards, and visualizations.In this project we are finding count of cities and count of Illness and maximum income for each state.
+Splunk (the product) captures, indexes, and correlates real-time data in a searchable repository from which it can generate graphs, reports, alerts, dashboards, and visualizations.In this project we are finding count of cities, average age and maximum income for each state.
 ## V's of the data
 #### This dataset is related to Toy Dataset. They are of 6 columns like City is the location of a person (Dallas, New York City, Los Angeles, Mountain View, Boston, Washington D.C., San Diego and Austin) ,Gender of a person (Male or Female), Age of a person (Ranging from 25 to 65 years), Income i.e., Annual income of a person (Ranging from -674 to 177175) and Illness: Is the person Ill? (Yes or No)
 - Volume: The volume of my data is 5MB. It has 6 columns and 150001 rows. <br/>
@@ -27,11 +27,11 @@ Splunk (the product) captures, indexes, and correlates real-time data in a searc
 
 ![Maximum Income](https://github.com/varungoud2930/Splunk/blob/master/Income%20-%20maximum%20for%20each%20city/Maximum_Income_graph.png)
 
-- Count of Cities : Harshith Gudapati
-- Question : For all Cities, we will find the count of Gender.<br/>
-- Solution: 
+- Average Age : Harshith Gudapati
+- Question : For all Cities, we will find the average Age.<br/>
+- Solution: )
 
-![Count of Gender](https://github.com/varungoud2930/Splunk/blob/master/Gender-count/count_gender.png)
+![Average Age](https://github.com/varungoud2930/Splunk/blob/master/Average-%20Age/Average.png)
 
 - Count of Cities : Varun Goud Pulipalpula
 - Question : For all Cities, we will find the count of Cities.<br/>
