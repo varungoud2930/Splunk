@@ -46,7 +46,7 @@ Splunk (the product) captures, indexes, and correlates real-time data in a searc
 
 - Average Age : Harshith Gudapati
 - Question : For all Cities, we will find the average Age.<br/>
-- Solution: 
+### Solution: 
      Mapper Input:
       - Intermediate Pairs:
       Number, City, Gender, Age, Income, Illness
@@ -57,10 +57,10 @@ Splunk (the product) captures, indexes, and correlates real-time data in a searc
      Boston	              45.20262619
      Dallas	              45.06079058
      Los Angeles	        44.99533771
-     Mountain View	      44.99556931
-     New York City	      44.92291331
-     San Diego	          44.97336611
-     Washington D.C.	    44.80763547
+     Mountain View	  44.99556931
+     New York City	  44.92291331
+     San Diego	        44.97336611
+     Washington D.C.	  44.80763547
 
       
 
@@ -68,20 +68,20 @@ Splunk (the product) captures, indexes, and correlates real-time data in a searc
 
 - Count of Cities : Varun Goud Pulipalpula
 - Question : For all Cities, we will find the count of Cities.<br/>
-- Solution: 
+### Solution: 
        Mapper Input:
       - Intermediate Pairs:
       Number, City, Gender, Age, Income, Illness
       - Mapper Output/Reducer Input:
       City, Count
       - Results:
-    Austin	12292
-    Boston	8301
-    Dallas	19707
-    Los Angeles	32173
-    Mountain View	14219
-    New York City	50307
-    San Diego	4881
+    Austin	            12292
+    Boston	            8301
+    Dallas	            19707
+    Los Angeles	      32173
+    Mountain View	      14219
+    New York City	      50307
+    San Diego	      4881
     Washington D.C.	8120
 
 
