@@ -33,11 +33,11 @@ Splunk (the product) captures, indexes, and correlates real-time data in a searc
     Austin	          132302
     Boston	          132348
     Dallas	          91479
-    Los Angeles	      141249
+    Los Angeles	    141249
     Mountain View	    177157
     New York City	    147170
-    San Diego	        140190
-    Washington D.C.	  107704
+    San Diego	    140190
+    Washington D.C.   107704
 
       
 
